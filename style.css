@@ -1,0 +1,20 @@
+#coinsTableBody img{
+    width: 18px;
+}
+
+#coinsTableBody tr{
+    cursor: pointer;
+}
+
+#coinModalBody img{
+    width: 200px;
+}
+
+#stats{
+    color: lightblue;
+    text-align: right;
+}
+.statsSpan {
+    font-weight: bold;
+    color: lightgray;
+}
